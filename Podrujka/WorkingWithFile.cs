@@ -11,7 +11,7 @@ namespace Podrujka
 
         public WorkingWithFile()
         {
-            _pathOwnerId = "OwnerId.txt";
+            _pathOwnerId = "ID.txt";
             _pathDate = "Date.txt";
             _storageOwnerId = new List<List<string>>();
         }

@@ -9,14 +9,14 @@
 
   <ItemGroup>
     <None Remove="Date.txt" />
-    <None Remove="OwnerId.txt" />
+    <None Remove="ID.txt" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="Date.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="OwnerId.txt">
+    <Content Include="ID.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
